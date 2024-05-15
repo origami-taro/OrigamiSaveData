@@ -1,0 +1,7 @@
+{
+    "name": "com.origami.origami_savedata",
+    "version": "0.1.0",
+    "displayName": "OrigamiSaveData",
+    "description": "This package saves and loads data.",
+    "unity": "2022.3"
+}
